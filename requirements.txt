@@ -1,0 +1,14 @@
+wheel
+joblib
+Flask==1.1.2
+Flask-Cors==3.0.9
+Flask-RESTful==0.3.8
+flask-serialize==1.4.0
+joblib==1.0.1
+matplotlib==3.3.4
+Pillow==8.1.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+sklearn
+tensorflow
+keras
